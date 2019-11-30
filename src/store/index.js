@@ -9,7 +9,7 @@ export default new Vuex.Store({
   mutations: {
   },
   actions: {
-  },
-  modules: {
   }
+  // modules: {
+  // }分模块修复  项目大的时候用现在用不到
 })
